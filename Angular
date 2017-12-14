@@ -1,0 +1,19 @@
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Training>cd Documents
+
+C:\Users\Training\Documents>cd angularposts
+
+C:\Users\Training\Documents\angularposts>cd src
+
+C:\Users\Training\Documents\angularposts\src>cd app
+
+C:\Users\Training\Documents\angularposts\src\app>ng g c subcomponent
+  create src/app/subcomponent/subcomponent.component.html (31 bytes)
+  create src/app/subcomponent/subcomponent.component.spec.ts (670 bytes)
+  create src/app/subcomponent/subcomponent.component.ts (293 bytes)
+  create src/app/subcomponent/subcomponent.component.css (0 bytes)
+  update src/app/app.module.ts (422 bytes)
+
+C:\Users\Training\Documents\angularposts\src\app>^Q 
